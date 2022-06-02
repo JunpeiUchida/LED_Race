@@ -14,11 +14,8 @@ namespace LED_Race
 {
     public partial class Wait_Window : Form
     {
-        //private DemoApplicationContext context;
-        //Bitmap bmp_back = new Bitmap(@"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\LEDアプリ 1.png");
-        //Bitmap bmp_back = new Bitmap(@"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\LEDアプリ 1.png");
-        //Bitmap bmp_back = new Bitmap(@"C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\LEDアプリ 1.png");
-        //Bitmap bmp;
+        // 待機画面
+
         WindowsMediaPlayer sound = new WindowsMediaPlayer();
         string ledflag1 = "3";
         string ledflag2 = "0";
@@ -36,13 +33,6 @@ namespace LED_Race
 
             serialPort1.PortName = Program.port1;
             serialPort2.PortName = Program.port2;
-
-            //if (Program.first_check == 1)
-            //{
-            //    serialPort1.PortName = Program.port1;
-            //    serialPort2.PortName = Program.port2;
-            //}
-            //.context = applicationContext;
         }
 
         private void Wait_Window_Load(object sender, EventArgs e)
@@ -112,8 +102,6 @@ namespace LED_Race
             serialPort2.Write(wait_close2 + "\n"); // 送信データを書き込み(COM番号注意!)
             serialPort2.Close(); //このタイミングでポートを閉じる
 
-            //sound.URL = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
-            //sound.URL = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
             sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Accent41-2.mp3";
             sound.controls.play(); // 効果音を再生
 
@@ -136,24 +124,6 @@ namespace LED_Race
 
             label1.Enabled = false;
 
-            //this.context.SwitchForm(new Player(this.context));
-            /*if(Program.first_check == 1)
-            {
-                // プレイヤー名入力画面の表示
-                Player player = new Player();
-                player.Show(this);
-                // 待機画面を隠す
-                Hide();
-            }
-            else
-            {
-                // プレイヤー名入力画面の表示
-                Player player = new Player();
-                player.Show();
-                // 待機画面を隠す
-                this.Close();
-            }*/
-
             // プレイヤー名入力画面の表示
             Player player = new Player();
             player.Show();
@@ -175,8 +145,6 @@ namespace LED_Race
             serialPort2.Write(wait_close2 + "\n"); // 送信データを書き込み(COM番号注意!)
             serialPort2.Close(); //このタイミングでポートを閉じる
 
-            //sound.URL = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
-            //sound.URL = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
             sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Accent41-2.mp3";
             sound.controls.play(); // 効果音を再生
 
@@ -196,27 +164,6 @@ namespace LED_Race
             {
                 serialPort2.Close();
             }
-
-            //List<Control> controlList = new List<Control> {Wait_Window, label1 };
-            //Wait_Window.Enabled = false;
-
-            //this.context.SwitchForm(new Player(this.context));
-            /*if (Program.first_check == 1)
-            {
-                // プレイヤー名入力画面の表示
-                Player player = new Player();
-                player.Show(this);
-                // 待機画面を隠す
-                Hide();
-            }
-            else
-            {
-                // プレイヤー名入力画面の表示
-                Player player = new Player();
-                player.Show();
-                // 待機画面を隠す
-                this.Close();
-            }*/
 
             // プレイヤー名入力画面の表示
             Player player = new Player();
@@ -239,8 +186,6 @@ namespace LED_Race
             serialPort2.Write(wait_close2 + "\n"); // 送信データを書き込み(COM番号注意!)
             serialPort2.Close(); //このタイミングでポートを閉じる
 
-            //sound.URL = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
-            //sound.URL = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
             sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Accent41-2.mp3";
             sound.controls.play(); // 効果音を再生
 
@@ -261,27 +206,7 @@ namespace LED_Race
                 serialPort2.Close();
             }
 
-            //List<Control> controlList = new List<Control> {Wait_Window, label1 };
-            //Wait_Window.Enabled = false;
             panel1.Enabled = false;
-
-            //this.context.SwitchForm(new Player(this.context));
-            /*if (Program.first_check == 1)
-            {
-                // プレイヤー名入力画面の表示
-                Player player = new Player();
-                player.Show(this);
-                // 待機画面を隠す
-                Hide();
-            }
-            else
-            {
-                // プレイヤー名入力画面の表示
-                Player player = new Player();
-                player.Show();
-                // 待機画面を隠す
-                this.Close();
-            }*/
 
             // プレイヤー名入力画面の表示
             Player player = new Player();

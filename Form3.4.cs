@@ -13,6 +13,8 @@ namespace LED_Race
 {
     public partial class game2_intro : Form
     {
+        // ゲーム説明画面4
+
         static int time = 0;
 
         public game2_intro()

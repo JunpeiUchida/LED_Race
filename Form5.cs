@@ -14,6 +14,8 @@ namespace LED_Race
 {
     public partial class Result : Form
     {
+        // 結果表示画面
+
         WindowsMediaPlayer sound = new WindowsMediaPlayer();
 
         private int duration = 0;
@@ -30,8 +32,6 @@ namespace LED_Race
             timer1.Stop();
             duration = 0;
 
-            //sound.URL = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
-            //sound.URL = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
             sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Accent41-2.mp3";
             sound.controls.play(); // 効果音を再生
 
@@ -50,15 +50,12 @@ namespace LED_Race
             past.Show();
             // この画面を隠す
             this.Close();
-            //Hide();
-            //Application.Exit();
         }
 
         private void Result_Load(object sender, EventArgs e)
         {
             timer1.Start();
             label2.Text = Program.TransferText_rest;
-            //label2.Text = Program.rest[Program.cnt].ToString(@"mm\:ss\.ff");
             string result1 = Convert.ToString(Program.rest[0]); // int型をstring型に
             serialPort1.Open();
             serialPort1.Write(result1 + "\n"); // Arduino2に1回目の時間を送信（ミリ秒表記の文字列で）
@@ -75,8 +72,6 @@ namespace LED_Race
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //Application.Exit();
-
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
             string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
@@ -114,9 +109,6 @@ namespace LED_Race
             else if(duration == 7) //5秒経過すると自動で遷移
             {
                 duration = 0;
-
-                //sound.URL = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
-                //sound.URL = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
                 sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Accent41-2.mp3";
                 sound.controls.play(); // 効果音を再生
 
@@ -127,7 +119,6 @@ namespace LED_Race
                 past.Show();
                 // この画面を隠す
                 this.Close();
-                //Hide();
             }
 
             if (duration > 3) // 結果は点滅
@@ -157,7 +148,6 @@ namespace LED_Race
             menu.Show();
             // この画面を隠す
             this.Close();
-            //Hide();
         }
 
         private void Result_FormClosing(object sender, FormClosingEventArgs e)

@@ -13,6 +13,8 @@ namespace LED_Race
 {
     public partial class Passward : Form
     {
+        // パスワード入力画面
+
         public Passward()
         {
             InitializeComponent();
@@ -20,7 +22,7 @@ namespace LED_Race
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(textBox1.Text == "root")
+            if(textBox1.Text == "0000")
             {
                 // txtファイルの書き込み
                 DateTime dt = DateTime.Now;

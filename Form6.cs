@@ -14,7 +14,8 @@ namespace LED_Race
 {
     public partial class Past_rest : Form
     {
-        //WindowsMediaPlayer sound = new WindowsMediaPlayer();
+        // 記録表示画面
+
         private System.Windows.Forms.Label[] tlabel;
 
         static int cnt = 0;
@@ -69,7 +70,6 @@ namespace LED_Race
                     end.Show();
                     // この画面を隠す
                     this.Close();
-                    //Hide();
                 }
                 else if(Program.end_f == false)
                 {
@@ -78,7 +78,6 @@ namespace LED_Race
                     next.Show();
                     // この画面を隠す
                     this.Close();
-                    //Hide();
                 }
             }
         }
@@ -112,8 +111,6 @@ namespace LED_Race
             this.tlabel[19] = this.label20;
 
             // pastファイルの読み込み
-            //string filename = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\csv\result.csv";
-            //string filename = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\csv\result.csv";
             string filename = @"C:\Users\s2-de\Documents\LEDレース\csv\past.csv";
             StreamReader file = new StreamReader(filename);
 
@@ -280,8 +277,6 @@ namespace LED_Race
                 {
                     // ソートしない
                 }
-                //Program.today_name[5 - cnt2] = Program.TransferText_pname;
-                //Program.past_name[5 - cnt1] = Program.TransferText_pname;
             }
 
             // txtファイルの書き込み
@@ -372,7 +367,6 @@ namespace LED_Race
             menu.Show();
             // この画面を隠す
             this.Close();
-            //Hide();
         }
 
         private void button1_Click(object sender, EventArgs e) // 次へボタン
@@ -398,7 +392,6 @@ namespace LED_Race
                 end.Show();
                 // この画面を隠す
                 this.Close();
-                //Hide();
             }
             else if (Program.end_f == false)
             {
@@ -409,7 +402,6 @@ namespace LED_Race
                 next.Show();
                 // この画面を隠す
                 this.Close();
-                //Hide();
             }
         }
 

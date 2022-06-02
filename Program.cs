@@ -52,22 +52,5 @@ namespace LED_Race
             //Application.Run(new Wait_Window());
             Application.Run(new Port_select());
         }
-
-        /*public class DemoApplicationContext : ApplicationContext
-        {
-            public DemoApplicationContext()
-            {
-                this.MainForm = new Wait_Window(this);
-            }
-
-            public void SwitchForm(Form nextForm)
-            {
-                var previousForm = this.MainForm;
-                this.MainForm = nextForm;
-
-                previousForm.Close();
-                nextForm.Show();
-            }
-        }*/
     }
 }

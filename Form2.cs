@@ -15,6 +15,8 @@ namespace LED_Race
 {
     public partial class Player : Form
     {
+        // プレイヤー名入力画面
+
         WindowsMediaPlayer sound = new WindowsMediaPlayer();
         string pname = "";
         string[] pname_b = new string[20] { "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""};
@@ -31,14 +33,11 @@ namespace LED_Race
 
         private void Player_select_button_Click(object sender, EventArgs e)
         {
-            //sound.URL = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
-            //sound.URL = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
             sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Accent41-2.mp3";
             sound.controls.play(); // 効果音を再生
 
             Program.TransferText_pname = label2.Text;
-            //Main mn = new Main();
-            //mn.ShowDialog(this);
+
             // プレイヤー名の初期化
             pname = "";
             for(int i = 0; i < 20; i++)
@@ -78,27 +77,6 @@ namespace LED_Race
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F2_Load"));
             file2.Close();
         }
-
-        /*private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-        ]
-            // RegexクラスのIsMatchで正規表現を使って判定
-            if(Regex.IsMatch(textBox1.Text, @"^\p{IsHiragana}*$") == false)
-            {
-                // ひらがな以外が入っていたら，テキストをクリア
-                textBox1.Text = "";
-                return;
-            }
-        }
-
-        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            // バックスペースが押された時は有効（Deleteキーも有効）
-            if(e.KeyChar == '\b')
-            {
-                return;
-            }
-        }*/
 
 
         private void button1_Click(object sender, EventArgs e)

@@ -15,6 +15,8 @@ namespace LED_Race
 {
     public partial class Port_select : Form
     {
+        // ポート選択画面（初回のみ表示）
+
         public Port_select()
         {
             InitializeComponent();
@@ -60,14 +62,6 @@ namespace LED_Race
                     comboBox1.Items.Add(deviceNames[index]);
                     comboBox2.Items.Add(deviceNames[index]);
 
-                    // if (deviceNames[index] == "USB Serial Port (COM3)")
-                    // {
-                    //    index1 = index;
-                    // }
-                    // if (deviceNames[index] == "USB Serial Port (COM4)")
-                    // {
-                    //     index2 = index;
-                    // }
                     if (deviceNames[index] == "USB シリアル デバイス (COM3)")
                     {
                         index1 = index;
@@ -80,16 +74,12 @@ namespace LED_Race
                 }
                 comboBox1.SelectedIndex = index1;
                 comboBox2.SelectedIndex = index2;
-                //comboBox1.Items.AddRange(deviceNames);
-                //comboBox2.Items.AddRange(deviceNames);
-                //return deviceNames;
             }
             else // 使用可能なポートがない場合
             {
                 MessageBox.Show("ポートが使用できません。");
                 System.Threading.Thread.Sleep(5000);
                 Application.Exit(); // アプリを終了
-                // return null;
             }
         }
 

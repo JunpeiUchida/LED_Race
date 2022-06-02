@@ -13,6 +13,8 @@ namespace LED_Race
 {
     public partial class Menu : Form
     {
+        // メニュー画面
+
         public Menu()
         {
             InitializeComponent();
@@ -37,7 +39,6 @@ namespace LED_Race
                     player.Show();
                     // 待機画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 case 3.1:
                     // ゲーム説明画面の表示
@@ -45,7 +46,6 @@ namespace LED_Race
                     intro1.Show();
                     // プレイヤー名入力画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 case 3.2:
                     // 3.2画面の表示
@@ -53,7 +53,6 @@ namespace LED_Race
                     intro2.Show();
                     // ゲーム説明画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 case 3.3:
                     // 3.3画面の表示
@@ -61,7 +60,6 @@ namespace LED_Race
                     intro_g1.Show();
                     // 3.2画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 case 3:
                     // inst画面の表示
@@ -69,7 +67,6 @@ namespace LED_Race
                     inst.Show();
                     // 3.3画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 case 4:
                     // メイン画面の表示
@@ -77,7 +74,6 @@ namespace LED_Race
                     main.Show();
                     // カウントダウン画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 case 5:
                     // 結果画面の表示
@@ -85,7 +81,6 @@ namespace LED_Race
                     result.Show();
                     // メイン画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 case 6:
                     // 次の画面の表示
@@ -93,7 +88,6 @@ namespace LED_Race
                     past.Show();
                     // この画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 case 7:
                     // 次の画面の表示
@@ -101,7 +95,6 @@ namespace LED_Race
                     next.Show();
                     // この画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 case 3.4:
                     // ゲーム2の説明画面の表示
@@ -109,12 +102,10 @@ namespace LED_Race
                     intro_g2.Show();
                     // メイン画面を隠す
                     this.Close();
-                    //Hide();
                     break;
                 default:
                     break;
             }
-            //Hide();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -131,7 +122,6 @@ namespace LED_Race
             Wait_Window wait = new Wait_Window();
             wait.Show();
             // メニュー画面を隠す
-            //Hide();
             this.Close();
         }
 

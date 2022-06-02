@@ -14,6 +14,8 @@ namespace LED_Race
 {
     public partial class Game_Inst : Form
     {
+        // ゲーム開始画面
+
         static int time = 0;
 
         WindowsMediaPlayer sound = new WindowsMediaPlayer();
@@ -25,16 +27,8 @@ namespace LED_Race
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //sound.URL = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
-            //sound.URL = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
             sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Accent41-2.mp3";
             sound.controls.play(); // 効果音を再生
-
-            //Application.Exit();
-            // this.Close();
-            // プレイヤー名入力画面の表示
-            //Wait_Window wait = new Wait_Window();
-            //wait.Show(this);
 
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
@@ -49,17 +43,10 @@ namespace LED_Race
 
             button2.Enabled = false;
 
-            /*// カウントダウン画面の表示
-            CountDown countdown = new CountDown();
-            countdown.Show(this);
-            // ゲーム説明画面を隠す
-            Hide();*/
-
             // メイン画面の表示
             Main main = new Main();
             main.Show();
             // カウントダウン画面を隠す
-            //Hide();
             this.Close();
         }
 
@@ -100,7 +87,6 @@ namespace LED_Race
             Menu menu = new Menu();
             menu.Show();
             // この画面を隠す
-           // Hide();
             this.Close();
         }
 
@@ -131,11 +117,7 @@ namespace LED_Race
                 wait.Show();
                 // この画面を隠す
                 this.Close();
-                // Hide();
             }
-
-            // ゲームの説明動画を表示
-
         }
 
         private void Game_Inst_FormClosing(object sender, FormClosingEventArgs e)

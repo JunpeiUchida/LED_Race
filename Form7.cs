@@ -14,6 +14,8 @@ namespace LED_Race
 {
     public partial class Next : Form
     {
+        // 折り返し画面
+
         static int time = 0;
 
         WindowsMediaPlayer sound = new WindowsMediaPlayer();
@@ -25,8 +27,6 @@ namespace LED_Race
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //sound.URL = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
-            //sound.URL = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Accent41-2.mp3";
             sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Accent41-2.mp3";
             sound.controls.play(); // 効果音を再生
 
@@ -48,7 +48,6 @@ namespace LED_Race
             intro_g2.Show();
             // メイン画面を隠す
             this.Close();
-            //Hide();
         }
 
         private void Next_Load(object sender, EventArgs e)
@@ -75,7 +74,6 @@ namespace LED_Race
             menu.Show();
             // この画面を隠す
             this.Close();
-            //Hide();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -97,7 +95,6 @@ namespace LED_Race
                 intro_g2.Show();
                 // メイン画面を隠す
                 this.Close();
-                //Hide();
             }
 
             if (time > 180)
@@ -110,7 +107,6 @@ namespace LED_Race
                 wait.Show();
                 // この画面を隠す
                 this.Close();
-                //Hide();
             }
         }
 

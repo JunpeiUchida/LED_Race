@@ -14,6 +14,8 @@ namespace LED_Race
 {
     public partial class End : Form
     {
+        // 終了画面
+
         WindowsMediaPlayer sound = new WindowsMediaPlayer();
 
         static int cnt = 0;
@@ -30,8 +32,6 @@ namespace LED_Race
 
             DateTime dt = DateTime.Now;
 
-            //string filename = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\csv\" + dt.ToString("yyyyMMddHHmmss") + ".csv";
-            //string filename = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\csv\" + dt.ToString("yyyyMMddHHmmss") + ".csv";
             string filename = @"C:\Users\s2-de\Documents\LEDレース\csv\" + dt.ToString("yyyyMMddHHmmss") + ".csv";
             StreamWriter file = new StreamWriter(filename, false, Encoding.UTF8);
 
@@ -81,7 +81,6 @@ namespace LED_Race
                 wait.Show();
                 // この画面を隠す
                 this.Close();
-                //Hide();
             }
         }
 

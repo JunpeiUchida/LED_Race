@@ -14,6 +14,8 @@ namespace LED_Race
 {
     public partial class CountDown : Form
     {
+        // カウントダウン画面
+
         WindowsMediaPlayer sound = new WindowsMediaPlayer();
 
         private int duration = 3;
@@ -54,8 +56,6 @@ namespace LED_Race
         {
             timer1.Start();
 
-            //sound.URL = @"C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Countdown06-2.mp3";
-            //sound.URL = @"C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\sound\Countdown06-2.mp3";
             sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Countdown06-2.mp3";
             sound.controls.play(); // 効果音を再生
             //new EventHandler(timer1_Tick);
