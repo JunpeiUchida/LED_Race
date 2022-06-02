@@ -1,0 +1,421 @@
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\LED_Race.exe.config
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\LED_Race.exe
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\LED_Race.pdb
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.dll
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.pdb
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.xml
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.AssemblyReference.cache
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Player.resources
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.exe
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.pdb
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\LED_Race.exe.config
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\LED_Race.exe
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\LED_Race.pdb
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.dll
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.pdb
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.xml
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csprojAssemblyReference.cache
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Player.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.exe
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.pdb
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Main.resources
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Main.resources
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Result.resources
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.CountDown.resources
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Next.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Result.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.CountDown.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Next.resources
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.End.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.End.resources
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\Interop.WMPLib.dll
+C:\Users\urbtg\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\Interop.WMPLib.dll
+C:\Users\S2\OneDrive\Documents\塚本寺田研究室\科学館\Visual Studio\LED_Race\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\LED_Race.exe.config
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\LED_Race.exe
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\LED_Race.pdb
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.dll
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.pdb
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.xml
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.csproj.AssemblyReference.cache
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\Interop.WMPLib.dll
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.Player.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.Main.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.Result.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.CountDown.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.Next.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.End.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.exe
+C:\Users\s2-de\Downloads\LED_Race-20220315T061301Z-001\LED_Race\obj\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\LED_Race.exe.config
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.csproj.AssemblyReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\Interop.WMPLib.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.Player.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.Main.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.Result.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.CountDown.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.Next.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.End.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.intro1.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.intro2.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.game1_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.game2_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race\obj\Debug\LED_Race.Menu.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\LED_Race.exe.config
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\LED_Race.exe
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\LED_Race.pdb
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.dll
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.pdb
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.xml
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.csproj.AssemblyReference.cache
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\Interop.WMPLib.dll
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.Menu.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.Player.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.intro1.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.intro2.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.game1_intro.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.game2_intro.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.Main.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.Result.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.CountDown.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.Next.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.End.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.exe
+C:\Users\s2-de\OneDrive\ドキュメント\LED_Race_v2\obj\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\LED_Race.exe.config
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.csproj.AssemblyReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\Interop.WMPLib.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Menu.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Player.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.intro1.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.intro2.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.game1_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.game2_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Main.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Result.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.CountDown.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Next.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.End.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v2\obj\Debug\LED_Race.Passward.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\LED_Race.exe.config
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.csproj.AssemblyReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\Interop.WMPLib.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Passward.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Menu.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Player.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.intro1.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.intro2.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.game1_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.game2_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Main.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Result.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.CountDown.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Next.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.End.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v3\obj\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\LED_Race.exe.config
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.csproj.AssemblyReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\Interop.WMPLib.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Passward.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Menu.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Player.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.intro1.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.intro2.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.game1_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.game2_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Main.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Result.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.CountDown.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Next.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.End.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4\obj\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\LED_Race.exe.config
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.csproj.AssemblyReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Passward.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Menu.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Player.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.intro1.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.intro2.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.game1_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.game2_intro.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Main.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Result.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.CountDown.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Next.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.End.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\LED_Race_v4.1\obj\Debug\LED_Race.Port_select.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\LED_Race.exe.config
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\LED_Race.pdb
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.dll
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.pdb
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.xml
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.csproj.AssemblyReference.cache
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.csproj.SuggestedBindingRedirects.cache
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\Interop.WMPLib.dll
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.csproj.ResolveComReference.cache
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Passward.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Menu.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Wait_Window.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Player.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.intro1.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.intro2.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.game1_intro.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.game2_intro.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Game_Inst.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Main.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Result.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.CountDown.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Past_rest.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Next.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.End.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Port_select.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.Properties.Resources.resources
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.csproj.GenerateResource.cache
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.csproj.CoreCompileInputs.cache
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.csproj.CopyComplete
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.exe
+C:\Users\s2-de\Documents\LEDレース\20220426\LED_Race_v4.2\obj\Debug\LED_Race.pdb
