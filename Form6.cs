@@ -111,7 +111,7 @@ namespace LED_Race
             this.tlabel[19] = this.label20;
 
             // pastファイルの読み込み
-            string filename = @"C:\Users\s2-de\Documents\LEDレース\csv\past.csv";
+            string filename = @"past.csv";
             StreamReader file = new StreamReader(filename);
 
             int i = 0;
@@ -148,7 +148,7 @@ namespace LED_Race
 
             // todayファイルの読み込み
             DateTime dt = DateTime.Now;
-            string filename1 = @"C:\Users\s2-de\Documents\LEDレース\csv\result" + dt.ToString("yyyyMMdd") + ".csv";
+            string filename1 = @"result" + dt.ToString("yyyyMMdd") + ".csv";
 
             if (File.Exists(filename1)) // todayファイルが存在する場合
             {
@@ -281,7 +281,7 @@ namespace LED_Race
 
             // txtファイルの書き込み
             DateTime dt1 = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt1.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt1.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt1.ToString("yyyyMMddHHmmss"), "F6_Load"));
@@ -290,11 +290,11 @@ namespace LED_Race
 
         private void sort(int cnt1, int cnt2)
         {
-            string filename = @"C:\Users\s2-de\Documents\LEDレース\csv\past.csv";
+            string filename = @"past.csv";
 
             // todayファイルの読み込み
             DateTime dt = DateTime.Now;
-            string filename1 = @"C:\Users\s2-de\Documents\LEDレース\csv\result" + dt.ToString("yyyyMMdd") + ".csv";
+            string filename1 = @"result" + dt.ToString("yyyyMMdd") + ".csv";
 
             for (int n = 0; n < 5 - cnt2; n++) // todayのtop5と今の結果をソート
             {
@@ -373,7 +373,7 @@ namespace LED_Race
         {
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F6_button1_Click"));
@@ -409,7 +409,7 @@ namespace LED_Race
         {
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F6_close"));

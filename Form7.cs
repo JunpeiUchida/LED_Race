@@ -27,12 +27,12 @@ namespace LED_Race
 
         private void button1_Click(object sender, EventArgs e)
         {
-            sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Accent41-2.mp3";
+            sound.URL = @"Accent41-2.mp3";
             sound.controls.play(); // 効果音を再生
 
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F7_button1_Click"));
@@ -54,7 +54,7 @@ namespace LED_Race
         {
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F7_Load"));
@@ -114,7 +114,7 @@ namespace LED_Race
         {
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F7_close"));

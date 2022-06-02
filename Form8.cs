@@ -32,7 +32,7 @@ namespace LED_Race
 
             DateTime dt = DateTime.Now;
 
-            string filename = @"C:\Users\s2-de\Documents\LEDレース\csv\" + dt.ToString("yyyyMMddHHmmss") + ".csv";
+            string filename = @"csv\" + dt.ToString("yyyyMMddHHmmss") + ".csv";
             StreamWriter file = new StreamWriter(filename, false, Encoding.UTF8);
 
             file.WriteLine(string.Format("{0}, {1}", "player_name", Program.TransferText_pname));
@@ -59,7 +59,7 @@ namespace LED_Race
 
             // txtファイルの書き込み
             DateTime dt1 = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt1.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt1.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt1.ToString("yyyyMMddHHmmss"), "F8_Load"));
@@ -88,7 +88,7 @@ namespace LED_Race
         {
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F8_close"));

@@ -53,7 +53,7 @@ namespace LED_Race
 
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F4_Load"));
@@ -109,7 +109,7 @@ namespace LED_Race
 
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F4_Check_input"));
@@ -131,7 +131,7 @@ namespace LED_Race
 
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F4_button2_Click"));
@@ -164,7 +164,7 @@ namespace LED_Race
                     serialPort2.Close();
                 }
 
-                sound.URL = @"C:\Users\s2-de\Documents\LEDレース\sound\Countdown06-6.mp3";
+                sound.URL = @"Countdown06-6.mp3";
                 sound.controls.play(); // 効果音を再生
             }
             else if(time == 30)
@@ -216,7 +216,7 @@ namespace LED_Race
 
                     // txtファイルの書き込み
                     DateTime dt = DateTime.Now;
-                    string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+                    string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
                     StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
                     file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F4_time == 180"));
@@ -236,7 +236,7 @@ namespace LED_Race
         {
             // txtファイルの書き込み
             DateTime dt = DateTime.Now;
-            string filename2 = @"C:\Users\s2-de\Documents\LEDレース\log\log_" + dt.ToString("yyyyMMdd") + ".txt";
+            string filename2 = @"log_" + dt.ToString("yyyyMMdd") + ".txt";
 
             StreamWriter file2 = new StreamWriter(filename2, true, Encoding.UTF8);
             file2.WriteLine(string.Format("{0}, {1}", dt.ToString("yyyyMMddHHmmss"), "F4_close"));
